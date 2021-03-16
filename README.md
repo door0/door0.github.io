@@ -9,6 +9,6 @@
 
 test
 
-## :calendar: 업데이트날짜
+## :calendar: Update
 
 2021/ 03/ 16
