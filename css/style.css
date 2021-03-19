@@ -1,5 +1,5 @@
 body {
-    caret-color: #9536FF;
+    caret-color: #CB6CFF;
     color: #272341;
   }
   
@@ -10,7 +10,7 @@ body {
     background: linear-gradient(135deg, #8324FF, #CB6CFF);
   }
   
-  .main_title {
+  .main__title {
     margin: 0px;
     padding-top: 10px;
     padding-bottom: 0px;
@@ -18,22 +18,22 @@ body {
     color: white;
   }
   
-  .main_title h1 {
+  .main__title h1 {
     margin-bottom: 5px;
   }
   
-  .list_section {
+  .input__section {
     margin: auto;
   }
   
-  .list_section form {
+  .input__section form {
     margin: 0px 70px 5px 70px;
     align-items: center;
     display: flex;
     justify-content: space-between;
   }
   
-  .input_list {
+  .item {
     width: 300px;
     height: 30px;
     border-radius: 15px;
@@ -45,7 +45,7 @@ body {
     outline: none;
   }
   
-  .input_btn {
+  .input__button {
     background-color: transparent;
     font-size: 30px;
     line-height: 60px;
@@ -117,18 +117,18 @@ body {
       max-width: 100%;
     }
   
-    .list_section form {
+    .input__section form {
       margin: 0px 30px 5px 30px;
       align-items: center;
       display: flex;
       justify-content: space-between;
     }
   
-    .input_list {
+    .item {
       width: 200px;
       height: 30px;
       border-radius: 15px;
-      border: 1px solid #D1B2FF;
+      border: 1px solid #CB6CFF;
       padding: 0px 30px;
     }
   
