@@ -2,8 +2,8 @@
 'use strict'; 
 
 let itemList  = [];
-let inputButton = document.querySelector(".input__button"); //input_btn을 inputButton 변수에 할당
-inputButton.addEventListener("click", addItem); //input_btn을 누르면 addMemo 함수 실행
+let inputButton = document.querySelector(".input__button"); //input__button을 inputButton 변수에 할당
+inputButton.addEventListener("click", addItem); //input__button을 누르면 addItem 함수 실행
 
 function addItem() {
     let item = document.querySelector(".item").value; //item클래스에 값 받아와서 item 변수에 할당
@@ -25,7 +25,7 @@ function showList() {
 
     let deleteButton = document.querySelectorAll(".close"); //클래스가  close인 모든 요소를 가져와서 deleteButton에 저장
     for( let i = 0; i < deleteButton.length; i++) {
-        deleteButton[i].addEventListener("click", deleteItem); //클릭할 경우 해당 item 삭제(deleteMemo 함수 실행)
+        deleteButton[i].addEventListener("click", deleteItem); //클릭할 경우 해당 item 삭제(deleteItem 함수 실행)
     }
 }
 
