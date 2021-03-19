@@ -3,7 +3,7 @@
 HTML, CSS, JAVA SCRIPT로 만든 간단한 TO DO LIST입니다. :grin:
 
 > git 페이지 입니다. <br>
-> - https://door0_todolist.github.io/
+> - https://door0.github.io/todolist/
 
 ## :triangular_flag_on_post: Summary
 
