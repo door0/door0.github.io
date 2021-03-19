@@ -7,10 +7,13 @@ inputButton.addEventListener("click", addItem); //input__button을 누르면 add
 
 function addItem() {
     let item = document.querySelector(".item").value; //item클래스에 값 받아와서 item 변수에 할당
-    if (item != null) { //memo가 null이 아닐때 
+    if (item != null) { //item이 null이 아닐때 
         itemList.push(item);
         document.querySelector(".item").value = "";
         document.querySelector(".item").focus(); //push한 다음 value 삭제, focus 적용
+    } else {
+        alert("할일을 써주세요!")
+        return;
     }
     showList();
 }
