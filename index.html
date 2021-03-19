@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="kor">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO DO LIST</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div id="todolist">
+        <div class="main_title">
+            <h1>TO DO LIST</h1>
+        </div>
+        <!-- 할일 목록 추가 -->
+        <div class="list_section">
+            <form>
+                <div>
+                    <input type="text" class="input_list" autofocus="true">
+                </div>
+                <div>
+                    <button typ="button" class="input_btn"><i class="fas fa-plus-circle"></i></button>
+                </div>
+            </form>
+        </div>
+        <!-- 할일 목록 표시 -->
+        <div class="memo_list"></div>  
+    </div>
+    <script src="main.js" defer></script>
+</body>
