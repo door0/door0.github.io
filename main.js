@@ -13,7 +13,6 @@ function addItem() {
         document.querySelector(".item").focus(); //push한 다음 value 삭제, focus 적용
     } else if( item == '' || item == null ) {
         alert("할일을 써주세요!");
-        return;
     }
     showList();
 }
