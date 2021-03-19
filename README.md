@@ -1,16 +1,16 @@
 # :newspaper: TO DO LIST
 
-HTML, CSS, JAVA SCRIPT·Î ¸¸µç °£´ÜÇÑ TO DO LISTÀÔ´Ï´Ù. :grin:
+HTML, CSS, JAVA SCRIPTë¡œ ë§Œë“  ê°„ë‹¨í•œ TO DO LISTìž…ë‹ˆë‹¤. :grin:
 
-> git ÆäÀÌÁö ÀÔ´Ï´Ù. <br>
-> - https://door0.github.io/
+> git íŽ˜ì´ì§€ ìž…ë‹ˆë‹¤. <br>
+> - https://door0.github.io/todolist/
 
 ## :triangular_flag_on_post: Summary
 
-ÀÌ·¯ÇÑ ±â´ÉÀÌ ÀÖ¾î¿ä ! :blush:
-1. '+' ¹öÆ°À» ´©¸£¸é ¸®½ºÆ®¿¡ ÇÒÀÏ Ç¥½Ã
-2. 'X' ¹öÆ°À» ´©¸£¸é ¸®½ºÆ®¿¡ ÇÒÀÏ »èÁ¦
-3. ¸®½ºÆ®¿¡ ÇÒÀÏ Å¬¸¯ÇÏ¸é ~~ÇÒÀÏ~~¿¡ ÁÙ ±ß±â
+ì´ëŸ¬í•œ ê¸°ëŠ¥ì´ ìžˆì–´ìš” ! :blush:
+1. '+' ë²„íŠ¼ì„ ëˆ„ë¥´ë©´ ë¦¬ìŠ¤íŠ¸ì— í• ì¼ í‘œì‹œ
+2. 'X' ë²„íŠ¼ì„ ëˆ„ë¥´ë©´ ë¦¬ìŠ¤íŠ¸ì— í• ì¼ ì‚­ì œ
+3. ë¦¬ìŠ¤íŠ¸ì— í• ì¼ í´ë¦­í•˜ë©´ ~~í• ì¼~~ì— ì¤„ ê¸‹ê¸°
 
 ## :calendar: Update
 
