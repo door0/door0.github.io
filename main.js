@@ -1,11 +1,11 @@
 //strict mode 사용
 'use strict'; 
 
-let memoList = [];
-let inputButton = document.querySelector(".input_btn"); //input_btn을 inputButton 변수에 할당
-inputButton.addEventListener("click", addMemo); //input_btn을 누르면 addMemo 함수 실행
+let itemList  = [];
+let inputButton = document.querySelector(".input__button"); //input_btn을 inputButton 변수에 할당
+inputButton.addEventListener("click", addItem); //input_btn을 누르면 addMemo 함수 실행
 
-function addMemo() {
+function addItem() {
     let item = document.querySelector(".item").value; //item클래스에 값 받아와서 item 변수에 할당
     if (item != null) { //memo가 null이 아닐때 
         itemList.push(item);
