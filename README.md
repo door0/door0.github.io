@@ -14,4 +14,4 @@ HTML, CSS, JAVA SCRIPT로 만든 간단한 TO DO LIST입니다. :grin:
 
 ## :calendar: Update
 
-2021/ 03/ 19
+2021/ 07/ 19
